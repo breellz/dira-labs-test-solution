@@ -19,7 +19,7 @@ Note: since no database is required, the waitlisters are saved in a json file in
 
 3. ```npm install```
 
-4. ```npm start```
+4. ```npm run dev```
 
 
 
